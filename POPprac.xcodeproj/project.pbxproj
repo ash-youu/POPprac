@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		265D440F2915F118002CA25A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265D440E2915F118002CA25A /* main.swift */; };
 		265D44162915F191002CA25A /* Charger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265D44152915F191002CA25A /* Charger.swift */; };
+		265D44182915F217002CA25A /* MacBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 265D44172915F217002CA25A /* MacBook.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		265D440B2915F118002CA25A /* POPprac */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = POPprac; sourceTree = BUILT_PRODUCTS_DIR; };
 		265D440E2915F118002CA25A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		265D44152915F191002CA25A /* Charger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Charger.swift; sourceTree = "<group>"; };
+		265D44172915F217002CA25A /* MacBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MacBook.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				265D440E2915F118002CA25A /* main.swift */,
 				265D44152915F191002CA25A /* Charger.swift */,
+				265D44172915F217002CA25A /* MacBook.swift */,
 			);
 			path = POPprac;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				265D44162915F191002CA25A /* Charger.swift in Sources */,
+				265D44182915F217002CA25A /* MacBook.swift in Sources */,
 				265D440F2915F118002CA25A /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
